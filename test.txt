@@ -1,1 +1,4 @@
 This is the test text file to learn github and git
+
+
+This is the new line to upload all the files at the same time via . command
